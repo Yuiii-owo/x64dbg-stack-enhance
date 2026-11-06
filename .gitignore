@@ -1,0 +1,8 @@
+obj/
+tests/bin/
+tests/sandbox/
+tests/out/
+dist/
+*.log
+*.user
+*.pdb
